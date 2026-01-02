@@ -18,5 +18,3 @@ and trains a **GCN + GRU** hybrid model to forecast future values.
   - MAPE  
 
 ---
-
-## 📦 Installation
